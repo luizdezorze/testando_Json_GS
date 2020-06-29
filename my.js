@@ -31,7 +31,7 @@ fetch(url, {
       'Content-Type': 'application/json'
     },
     redirect: 'follow', // manual, *follow, error
-    body: JSON.stringify(pac:"MANOEL SOUZA", rh:"2145442", cidade:"MANAUS",	idade:"56", est_civil:"CASADO") // body data type 
+    body: JSON.stringify({pac:"MANOEL SOUZA", rh:"2145442", cidade:"MANAUS",	idade:"56", est_civil:"CASADO"}) // body data type 
   });
     
 }
