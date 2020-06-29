@@ -1,6 +1,7 @@
 function testGS() {
 
     const url = "https://script.google.com/macros/s/AKfycbwhkS-jawL7rjVPgrdBFt4o05jF1krFGIPhVorqwKsRY9-qJp0E/exec";
+    
 
 
 fetch(url)
