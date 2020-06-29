@@ -31,7 +31,7 @@ fetch(url, {
       'Content-Type': 'application/json'
     },
     redirect: 'follow', // manual, *follow, error
-    body: JSON.stringify({name: "Joao"}) // body data type 
+    body: JSON.stringify(nome do Pac:"MANOEL Souza", rh:"2145442",	cidade:"MANAUS",	idade"56", estado civil"CASADO") // body data type 
   });
     
 }
