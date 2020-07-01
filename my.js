@@ -32,7 +32,7 @@ fetch(url, {
       'Content-Type': 'application/json'
     },
     redirect: 'follow', // manual, *follow, error
-    body: JSON.stringify({name:"Lucas"}) // body data type 
+    body: JSON.stringify(Id:"10",pac:"JUAREZ",rh:"12345678",cidade:"SP") // body data type 
   });
     
 }
